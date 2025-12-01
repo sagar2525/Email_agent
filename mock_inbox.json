@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "thread_id": "t_100",
+    "sender": "ceo@company.com",
+    "subject": "Urgent: Project Titan Board Meeting",
+    "body": "Team, the board meeting for Project Titan has been moved up to tomorrow at 9 AM. I need the Q4 projections for the EMEA region by 5 PM today. Specifically, I need the numbers for the London and Berlin branches.",
+    "timestamp": "2023-10-25 08:00:00"
+  },
+  {
+    "id": 2,
+    "thread_id": "t_100",
+    "sender": "cfo@company.com",
+    "subject": "Re: Urgent: Project Titan Board Meeting",
+    "body": "I am reviewing the EMEA numbers now. The London branch is up 15%, but Berlin is struggling. Marketing needs to submit their spend report for Campaign #99-B ASAP.",
+    "timestamp": "2023-10-25 08:15:00"
+  },
+  {
+    "id": 3,
+    "thread_id": "t_100",
+    "sender": "you@company.com",
+    "subject": "Re: Urgent: Project Titan Board Meeting",
+    "body": "I'm on it. I will pull the Campaign #99-B data from Salesforce and send it over in 30 minutes.",
+    "timestamp": "2023-10-25 08:20:00"
+  },
+  {
+    "id": 4,
+    "thread_id": "t_100",
+    "sender": "marketing-lead@company.com",
+    "subject": "Re: Urgent: Project Titan Board Meeting",
+    "body": "Attaching the spend report for Campaign #99-B. Total spend was $45,000 against a budget of $50,000.",
+    "timestamp": "2023-10-25 12:15:00"
+  },
+  {
+    "id": 5,
+    "thread_id": "t_101",
+    "sender": "newsletter@techdaily.com",
+    "subject": "Tech Daily: Gemini 1.5 Released",
+    "body": "Today's top stories: 1. Google releases Gemini 1.5 with a 1M token window. 2. Python 3.13 introduces JIT compilation. 3. Nvidia H100 chips are back in stock.",
+    "timestamp": "2023-10-25 09:00:00"
+  },
+  {
+    "id": 6,
+    "thread_id": "t_102",
+    "sender": "alert@chase-security.com",
+    "subject": "URGENT: Suspicious Activity Detected",
+    "body": "We detected a suspicious transaction on your Sapphire Reserve Credit Card ending in #8892. A charge of $2,400.00 was attempted at 'Apple Store - Tokyo' on Oct 24th. If this was not you, reply immediately.",
+    "timestamp": "2023-10-25 09:05:00"
+  },
+  {
+    "id": 7,
+    "thread_id": "t_103",
+    "sender": "hr@company.com",
+    "subject": "Open Enrollment: Plan B Changes",
+    "body": "Final reminder: The 'BlueCross Gold' plan is increasing premiums by $20/month starting Jan 1st. Please log in to Workday to confirm your enrollment before Friday 5 PM.",
+    "timestamp": "2023-10-25 09:30:00"
+  },
+  {
+    "id": 8,
+    "thread_id": "t_104",
+    "sender": "jira@company.com",
+    "subject": "Jira: New Ticket Assigned (DEV-429)",
+    "body": "Ticket DEV-429 has been assigned to you. Title: 'Login Timeout on iOS App v4.2'. Description: Users are getting logged out after 30 seconds. Impact: High.",
+    "timestamp": "2023-10-25 09:45:00"
+  },
+  {
+    "id": 9,
+    "thread_id": "t_105",
+    "sender": "mom@gmail.com",
+    "subject": "Sunday Lunch at Mario's?",
+    "body": "Hi honey, Dad wants to go to Mario's Italian for lunch this Sunday at 1 PM. Can you make it? They have that lasagna you like.",
+    "timestamp": "2023-10-25 10:00:00"
+  },
+  {
+    "id": 10,
+    "thread_id": "t_106",
+    "sender": "client@acme.inc",
+    "subject": "Project 'Skylark' Kickoff",
+    "body": "Hi, let's kick off Project Skylark. Agenda: 1. Scope (Mobile App only), 2. Budget ($150k), 3. Timeline (Launch by March 1st). Meeting is next Tuesday.",
+    "timestamp": "2023-10-25 10:30:00"
+  },
+  {
+    "id": 11,
+    "thread_id": "t_106",
+    "sender": "you@company.com",
+    "subject": "Re: Project 'Skylark' Kickoff",
+    "body": "Thanks. $150k is tight for a native mobile app. I will bring our lead iOS engineer to discuss feasibility.",
+    "timestamp": "2023-10-25 10:35:00"
+  },
+  {
+    "id": 12,
+    "thread_id": "t_107",
+    "sender": "billing@aws.com",
+    "subject": "AWS Invoice [Oct 2023]",
+    "body": "Your invoice #992381 is ready. Total: $4,210.50. Major costs: EC2 instances ($2,500) and RDS Databases ($1,200).",
+    "timestamp": "2023-10-25 11:00:00"
+  },
+  {
+    "id": 13,
+    "thread_id": "t_108",
+    "sender": "devops@company.com",
+    "subject": "Scheduled Maintenance: US-East-1",
+    "body": "We are upgrading the load balancers in US-East-1 this Saturday (Oct 28) from 02:00 UTC to 04:00 UTC. Expect 5 minutes of downtime.",
+    "timestamp": "2023-10-25 11:15:00"
+  },
+  {
+    "id": 14,
+    "thread_id": "t_109",
+    "sender": "recruiter@startup.io",
+    "subject": "Founding Engineer Role - 5% Equity",
+    "body": "I saw your GitHub repo 'Auto-GPT-Lite'. We are a Series A startup offering 5% equity and $180k base. Interested?",
+    "timestamp": "2023-10-25 11:30:00"
+  },
+  {
+    "id": 15,
+    "thread_id": "t_110",
+    "sender": "spammer@fast-rank.com",
+    "subject": "Fix your SEO today",
+    "body": "Your website DA (Domain Authority) is only 12. We can boost it to 50+ for just $99. Reply now!",
+    "timestamp": "2023-10-25 12:00:00"
+  },
+  {
+    "id": 16,
+    "thread_id": "t_114",
+    "sender": "events@company.com",
+    "subject": "Holiday Party: The Grand Hotel",
+    "body": "Join us at The Grand Hotel Ballroom on Dec 15th at 7 PM. Theme: Roaring 20s. RSVP by Dec 1st.",
+    "timestamp": "2023-10-25 13:30:00"
+  },
+  {
+    "id": 17,
+    "thread_id": "t_122",
+    "sender": "intern@company.com",
+    "subject": "Help with PyTorch Error",
+    "body": "I'm getting a 'CUDA out of memory' error when training the model with batch_size=64. Should I lower it to 32?",
+    "timestamp": "2023-10-25 15:30:00"
+  },
+  {
+    "id": 18,
+    "thread_id": "t_122",
+    "sender": "you@company.com",
+    "subject": "Re: Help with PyTorch Error",
+    "body": "Yes, try batch_size=32, or use gradient accumulation if you really need the larger effective batch size.",
+    "timestamp": "2023-10-25 15:35:00"
+  },
+  {
+    "id": 19,
+    "thread_id": "t_128",
+    "sender": "landlord@city-rentals.com",
+    "subject": "Lease Renewal - Apt 4B",
+    "body": "Your lease for Apt 4B expires on Dec 31st. The new rent will be $2,100 (up from $2,000). Please sign by Nov 15th.",
+    "timestamp": "2023-10-25 16:45:00"
+  },
+  {
+    "id": 20,
+    "thread_id": "t_130",
+    "sender": "notifications@slack.com",
+    "subject": "New mention in #deployments",
+    "body": "@channel The build failed on the production branch. Error: 'Missing environment variable API_KEY'.",
+    "timestamp": "2023-10-25 17:15:00"
+  }
+]
