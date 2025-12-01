@@ -1,6 +1,6 @@
 📧 Nexus: Prompt-Driven Email Productivity Agent
 
-Nexus is an intelligent, AI-powered email assistant designed to solve inbox overload using a Prompt-Driven Architecture. Unlike traditional filters, Nexus uses Google's Gemini 1.5 Flash model to adaptively categorize emails, extract actionable tasks, and draft replies based on user-defined logic.
+Nexus is an intelligent, AI-powered email assistant designed to solve inbox overload using a Prompt-Driven Architecture. Unlike traditional filters, Nexus uses Google's Gemini 2.5 Flash model to adaptively categorize emails, extract actionable tasks, and draft replies based on user-defined logic.
 
 🚀 Features
 
