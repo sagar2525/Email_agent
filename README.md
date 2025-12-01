@@ -28,7 +28,7 @@ This allows users to define logic in plain English (e.g., "Flag emails about Pro
 ## 🛠️ Tech Stack
 
 * **Frontend:** Streamlit (Python)
-* **AI Model:** Google Gemini 1.5 Flash (via `google-generativeai`)
+* **AI Model:** Google Gemini 2.5 Flash (via `google-generativeai`)
 * **Database:** SQLite (Embedded, no setup required)
 * **Visualization:** Plotly
 * **Async Processing:** Python `asyncio`
